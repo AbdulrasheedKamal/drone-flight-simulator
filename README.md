@@ -1,5 +1,5 @@
 # drone-flight-simulator
-Pure MATLAB quadrator simulation with 3D visualization, cascade PID control and waypoint navigation. No Simulink
+Pure MATLAB quadrotor simulation with 3D visualization, cascade PID control and waypoint navigation. No Simulink
 # Quadrotor Simulation in Pure MATLAB
 
 A complete 6-DOF quadrotor simulation written entirely in MATLAB. No Simulink, no toolboxes beyond basic MATLAB. Includes a 3D visualisation with patch objects, cascade PID control, waypoint mission planner, and real-time telemetry plots.
